@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#A27DE3",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "教师展示",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
